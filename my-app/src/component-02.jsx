@@ -1,7 +1,7 @@
-const { Component } = require("react");
+import React from "react";
 
 
-class HelloWord extends React,Component{
+class HelloWord extends React.Component{
     render(){
         return <h1>Hello,Word</h1>
     }
