@@ -1,0 +1,1 @@
+Se la variabile name non viene passata alla funzione, non viene visualizzata.
