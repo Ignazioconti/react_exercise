@@ -1,0 +1,1 @@
+Se la variabile name contiene un espessione JSX viene eseguita e poi visualizzata come JsS
