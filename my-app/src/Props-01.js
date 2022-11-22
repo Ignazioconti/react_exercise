@@ -11,8 +11,9 @@ export class Welcome extends React.Component {
           </p>
         )}
         {!this.props.name && <p>Welcome!!!!</p>}
-        <Age age={25} />
+        <Age age={18} />
       </div>
     );
   }
 }
+
