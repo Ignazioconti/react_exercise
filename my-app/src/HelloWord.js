@@ -1,5 +1,5 @@
 import React from "react";
-import { Message } from "./Component-07";
+import { Message } from "./Message";
 
 export class HelloWord extends React.Component {
   render() {

@@ -1,7 +1,7 @@
 import React from "react";
 
-import { HelloWord } from "./Component-02";
-import { Welcome } from "./Props-01";
+import { HelloWord } from "./HelloWord";
+import { Welcome } from "./Welcome";
 export class App extends React.Component {
   render() {
     return (
