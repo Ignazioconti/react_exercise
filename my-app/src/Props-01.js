@@ -9,7 +9,7 @@ export class Welcome extends React.Component {
     );
   }
 }
-
+// se non viene passata alcuna props viene solo visualizzato Welcome,
 Welcome.defaultProps = {
   name: "Ciao",
 };
